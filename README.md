@@ -1,10 +1,19 @@
-# Joseph Garrido
-## Drupal Developer & UX/UI Designer
+## Drupal Developer & Designer
 
-![Profile Banner](https://your-image-url-here.jpg)
+[//]: # ()
+[//]: # (![Profile Banner]&#40;https://your-image-url-here.jpg&#41;)
 
-## 👋 About Me
-Experienced Drupal web developer with extensive UI/UX design expertise. I specialize in creating seamless digital experiences that combine technical excellence with aesthetic appeal. My approach focuses on user-centered design principles while leveraging Drupal's powerful capabilities.
+## Selected Projects
+
+| Year | Name | Languages |
+|------|------|-----------|
+| 2010 |      |           |
+| 2016 |      |           |
+| 2021 |      |           |
+| 2025 |      |           |
+|      |      |           |
+|      |      |           |
+|      |      |           |
 
 ## 🛠️ Skills & Technologies
 - **CMS:** Drupal (8, 9, 10), WordPress
